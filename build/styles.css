@@ -11241,6 +11241,10 @@ video {
   font-family: Montserrat, sans-serif;
 }
 
+.font-vibes {
+  font-family: Great Vibes, cursive;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -42526,6 +42530,10 @@ video {
     font-family: Montserrat, sans-serif;
   }
 
+  .sm\:font-vibes {
+    font-family: Great Vibes, cursive;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -73639,6 +73647,10 @@ video {
 
   .md\:font-montserrat {
     font-family: Montserrat, sans-serif;
+  }
+
+  .md\:font-vibes {
+    font-family: Great Vibes, cursive;
   }
 
   .md\:font-thin {
@@ -104756,6 +104768,10 @@ video {
     font-family: Montserrat, sans-serif;
   }
 
+  .lg\:font-vibes {
+    font-family: Great Vibes, cursive;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -135871,6 +135887,10 @@ video {
     font-family: Montserrat, sans-serif;
   }
 
+  .xl\:font-vibes {
+    font-family: Great Vibes, cursive;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -166984,6 +167004,10 @@ video {
 
   .\32xl\:font-montserrat {
     font-family: Montserrat, sans-serif;
+  }
+
+  .\32xl\:font-vibes {
+    font-family: Great Vibes, cursive;
   }
 
   .\32xl\:font-thin {
