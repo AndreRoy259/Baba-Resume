@@ -11245,6 +11245,10 @@ video {
   font-family: Great Vibes, cursive;
 }
 
+.font-parisienne {
+  font-family: Parisienne, cursive;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -42534,6 +42538,10 @@ video {
     font-family: Great Vibes, cursive;
   }
 
+  .sm\:font-parisienne {
+    font-family: Parisienne, cursive;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -73651,6 +73659,10 @@ video {
 
   .md\:font-vibes {
     font-family: Great Vibes, cursive;
+  }
+
+  .md\:font-parisienne {
+    font-family: Parisienne, cursive;
   }
 
   .md\:font-thin {
@@ -104772,6 +104784,10 @@ video {
     font-family: Great Vibes, cursive;
   }
 
+  .lg\:font-parisienne {
+    font-family: Parisienne, cursive;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -135891,6 +135907,10 @@ video {
     font-family: Great Vibes, cursive;
   }
 
+  .xl\:font-parisienne {
+    font-family: Parisienne, cursive;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -167008,6 +167028,10 @@ video {
 
   .\32xl\:font-vibes {
     font-family: Great Vibes, cursive;
+  }
+
+  .\32xl\:font-parisienne {
+    font-family: Parisienne, cursive;
   }
 
   .\32xl\:font-thin {
